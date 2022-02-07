@@ -1,0 +1,53 @@
+/* common */
+body {
+  margin: 0;
+}
+h3 {
+  border-bottom: 1px solid gray;
+}
+img {
+  border-radius: 30px;
+}
+main {
+  display: flex;
+}
+.main-content {
+  background: #e9dfe5;
+  width: 1008px;
+  margin: 8px;
+  padding: 8px;
+}
+section {
+  background: #f6bfbc;
+  display: inline-block;
+  padding: 8px;
+}
+
+
+
+header {
+  background-color: skyblue;
+  height: 64px;
+  position: relative;
+}
+h1 {
+  margin: 0px 16px;
+  vertical-align: middle;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/* 右の奴 */
+article {
+  border: 1px solid gold;
+  width: 280px;
+  text-align: center;
+}
+h4 {
+  font-size: 24px;
+  text-align: center;
+}
+.dog {
+  border-radius: 70px;
+}
